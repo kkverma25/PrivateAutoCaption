@@ -1,6 +1,6 @@
 {
     "name": "MT AutoCaptionBot",
-    "description": "Auto Caption BoT @Pr0fess0r-99",
+    "description": "Auto Caption BoT @D_E_V_l_L",
     "logo": "https://telegra.ph/file/a2682b1cb49bf770baecf.jpg",
     "keywords": [
         "Private",
@@ -9,7 +9,7 @@
         "Bot"
     ],
     "website": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
-    "repository": "https://github.com/PR0FESS0R-99/PrivateAutoCaption",
+    "repository": "https://github.com/kkverma25/PrivateAutoCaption",
     "success_url": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
     "env": {
         "APP_ID": {
@@ -34,7 +34,7 @@
         },
         "LINK": {
             "description": " Group Or Chanenl) Public Link Link",
-            "value": "t.me/mo_tech_yt"
+            "value": "t.me/ABOUT_DEVIL_DAD"
         },
         "BOT_USERNAME": {
             "description": "Your Bot Username From @BotFather",
